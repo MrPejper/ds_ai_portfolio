@@ -1,0 +1,17 @@
+site_name: Moje projekty
+site_author: Mateusz Chmielarz
+site_description: >-
+    Portfolio moich projektów z Data Science.
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Pierwsze projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
+- Analizy sprzedaży:
+  - "Suplementy": supplements/index.md
+
+ 
