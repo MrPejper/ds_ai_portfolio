@@ -3,6 +3,10 @@ site_author: Mateusz Chmielarz
 site_description: >-
     Portfolio moich projektów z Data Science.
 
+
+repo_name: MrPejper/ds_ai_portfolio
+repo_url: https://github.com/MrPejper/ds_ai_portfolio
+
 theme:
   name: material
 
