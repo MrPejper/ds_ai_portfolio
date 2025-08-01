@@ -12,10 +12,13 @@ theme:
 
 nav:
 - Strona Domowa: index.md
-- Pierwsze projekty:
+- Analizy danych:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md
-- Analizy sprzedaży:
   - "Suplementy": supplements/index.md
+- Aplikacje:
+  - "Najważniejsze zmienne": variables/index.md
+  - "Cukrzyca": diabetes/index.md
+  
 
  
