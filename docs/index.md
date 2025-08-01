@@ -8,5 +8,9 @@ Strona będzie regularnie aktualizowana i wzbogacana o nowe treści, więc zach�
 
 Kontakt:
 email - matchmielarz31@onet.pl
+
+
 github - https://github.com/MrPejper
-linkdi -https://www.linkedin.com/in/mateusz-chmielarz-89b994361/
+
+
+linkedin -https://www.linkedin.com/in/mateusz-chmielarz-89b994361/
