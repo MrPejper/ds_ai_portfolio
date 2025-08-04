@@ -1,4 +1,5 @@
-# Analiza Danych EDA Pasażerów Titanika: Eksploracja Domenowa
+
+# Analiza Danych EDA Pasażerów Titanica: Eksploracja Domenowa
 
 Widoczna poniżej analiza ma na celu pokazanie, jakie cechy pasażerów titanica miały największy wpływ na ich przeżywalność.
 
