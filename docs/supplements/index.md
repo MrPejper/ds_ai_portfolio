@@ -1,4 +1,4 @@
-  Analiza Danych EDA Sprzedaży supkementów: Eksploracja Domenowa
+# Analiza Danych EDA Sprzedaży supkementów: Eksploracja      Domenowa
 
 Witam w analizie danych na temat sprzedaży suplementów.
 Analiza ta ma na celu znalezienie potencjalnych strategii mogących zwiększyć przychód z sprzedaży.
