@@ -1,9 +1,9 @@
-Witaj na moim portfolio!
+Welcome to my portfolio!
 
-Nazywam się Mateusz Chmielarz i jestem początkującym Data Scientistem z pasją do analizy danych i uczenia maszynowego.
-Stale rozwijam swoje umiejętności i mam nadzieję, że zaprezentowane tutaj projekty pokażą postępy, jakie poczyniłem w trakcie nauki.
+My name is Mateusz Chmielarz, and I am an aspiring Data Scientist with a passion for data analysis and machine learning.
+I am constantly developing my skills, and I hope that the projects presented here will demonstrate the progress I have made throughout my learning journey.
 
-Strona będzie regularnie aktualizowana i wzbogacana o nowe treści, więc zachęcam do zaglądania co jakiś czas!
+This page will be regularly updated and enriched with new content, so I encourage you to check back from time to time!
 
 
 Kontakt:
