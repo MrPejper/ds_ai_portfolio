@@ -1,6 +1,7 @@
 # Diabetes Prediction app
 
 This application allows users to input their medical test results and receive a prediction about the likelihood of having diabetes. Powered by a machine learning model trained on clinical data, the app provides a simple, fast, and accessible way to support early screening and health awareness. It demonstrates practical use of classification algorithms in a real-world medical context.
+
 github - https://github.com/MrPejper/diabetes
 
 <iframe
