@@ -15,7 +15,7 @@ nav:
 - Data Analysis:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md
-  - "Suplements": supplements/index.md
+  - "Supplements": supplements/index.md
 - Applications:
   - "Most_important_variables": variables/index.md
   - "Diabetes": diabetes/index.md
