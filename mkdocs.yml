@@ -11,7 +11,7 @@ theme:
   name: material
 
 nav:
-- Strona Domowa: index.md
+- Home Page: index.md
 - Data Analysis:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md

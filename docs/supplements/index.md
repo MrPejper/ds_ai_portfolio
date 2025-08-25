@@ -2,7 +2,7 @@
 
 This project investigates sales trends for a range of dietary supplements. By analyzing transaction data, I identify seasonal patterns, customer preferences, and key performance indicators. The goal is to draw actionable business insights that could support marketing and inventory decisions in the health products sector..
  
-<a href="supplements_eng.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="supplements_eng.ipynb" class="md-button md-button--primary">Download Notebook</a>
 
 <iframe
     id="content"

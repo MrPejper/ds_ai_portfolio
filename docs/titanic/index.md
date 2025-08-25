@@ -2,11 +2,11 @@
 
 In this analysis, I examine the famous Titanic dataset to uncover the factors that influenced passenger survival rates. Through data cleaning, exploratory analysis, and logistic regression modeling, I identify key patterns related to age, gender, class, and other attributes. The project offers insight into how data can be used to reveal human and historical trends.
 
-<a href="Titanic_eng.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Titanic_eng.ipynb" class="md-button md-button--primary">Download Notebook</a>
 
 <iframe
     id="content"
-    src="titanic_eng.html"
+    src="Titanic_eng.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

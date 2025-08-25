@@ -2,7 +2,7 @@
 
 This project focuses on the classification of three species of iris flowers: Setosa, Versicolor, and Virginica. Using classic datasets and machine learning algorithms, I explored how petal and sepal measurements can help predict flower species with high accuracy. This analysis served as a foundational exercise in supervised learning and data visualization.
 
-<a href="iris_eng.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris_eng.ipynb" class="md-button md-button--primary">Download Notebook</a>
 
 <iframe
     id="content"
