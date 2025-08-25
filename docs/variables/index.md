@@ -1,6 +1,6 @@
-# Analizator ważności cech
+# Most Important Variables app
 
-To narzędzie zostało zaprojektowane w celu automatycznego wykrywania najważniejszej cechy w podanym zbiorze danych. Po wybraniu kluczowej cechy, aplikacja analizuje, które inne zmienne mają na nią największy wpływ. Jest to przydatne narzędzie do eksploracyjnej analizy danych i interpretacji modeli, pomagające użytkownikom lepiej zrozumieć strukturę danych i potencjalne zależności przyczynowo-skutkowe.
+This tool is designed to automatically identify the most important feature within a given dataset. Once a key feature is selected, the app analyzes which other variables have the greatest influence on it. It's a useful resource for exploratory data analysis and model interpretation, helping users gain insights into data structure and potential causal relationships.
 
 github - https://github.com/MrPejper/most_important_variables
 

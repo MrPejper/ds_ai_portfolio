@@ -1,13 +1,12 @@
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Iris Flower Species Classification
 
-Zapraszam do zapoznania się z analizą danych dotyczącą 3 różnych gatunków irysów.
+This project focuses on the classification of three species of iris flowers: Setosa, Versicolor, and Virginica. Using classic datasets and machine learning algorithms, I explored how petal and sepal measurements can help predict flower species with high accuracy. This analysis served as a foundational exercise in supervised learning and data visualization.
 
-
-<a href="zadanie_IRYSY.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris_eng.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="iris.html"
+    src="iris_eng.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

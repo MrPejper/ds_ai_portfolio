@@ -1,7 +1,6 @@
-# Aplikacja do przewidywania cukrzycy
+# Diabetes Prediction app
 
-Ta aplikacja umożliwia użytkownikom wprowadzenie wyników badań medycznych i uzyskanie prognozy dotyczącej prawdopodobieństwa wystąpienia cukrzycy. Zasilana modelem uczenia maszynowego wytrenowanym na danych klinicznych, aplikacja stanowi prosty, szybki i dostępny sposób wspierania wczesnej diagnostyki i świadomości zdrowotnej. Projekt ten pokazuje praktyczne zastosowanie algorytmów klasyfikacyjnych w rzeczywistym kontekście medycznym.
-
+This application allows users to input their medical test results and receive a prediction about the likelihood of having diabetes. Powered by a machine learning model trained on clinical data, the app provides a simple, fast, and accessible way to support early screening and health awareness. It demonstrates practical use of classification algorithms in a real-world medical context.
 github - https://github.com/MrPejper/diabetes
 
 <iframe

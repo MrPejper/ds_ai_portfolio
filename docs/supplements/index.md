@@ -1,13 +1,12 @@
-# Analiza Danych EDA Sprzedaży suplementów: Eksploracja      Domenowa
+# Supplement Sales Data Analysis
 
-Witam w analizie danych na temat sprzedaży suplementów.
-Analiza ta ma na celu znalezienie potencjalnych strategii mogących zwiększyć przychód z sprzedaży.
+This project investigates sales trends for a range of dietary supplements. By analyzing transaction data, I identify seasonal patterns, customer preferences, and key performance indicators. The goal is to draw actionable business insights that could support marketing and inventory decisions in the health products sector..
  
-<a href="supplements_EDA.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="supplements_eng.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="supplements.html"
+    src="supplements_eng.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
