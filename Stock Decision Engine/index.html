@@ -13,8 +13,6 @@
       
       
       
-        <link rel="prev" href="../variables/">
-      
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -22,7 +20,7 @@
     
     
       
-        <title>Diabetes - My Projects</title>
+        <title>Stock Decision Engine - My Projects</title>
       
     
     
@@ -64,7 +62,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#diabetes-prediction-app" class="md-skip">
+        <a href="#stock-decision-engine" class="md-skip">
           Skip to content
         </a>
       
@@ -100,7 +98,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Diabetes
+              Stock Decision Engine
             
           </span>
         </div>
@@ -421,20 +419,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
         
           
           <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
@@ -450,7 +446,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             Applications
@@ -484,19 +480,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../diabetes/" class="md-nav__link">
         
   
   
@@ -507,7 +494,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -557,12 +543,37 @@
   
 
 
-<h1 id="diabetes-prediction-app">Diabetes Prediction app</h1>
-<p>This application allows users to input their medical test results and receive a prediction about the likelihood of having diabetes. Powered by a machine learning model trained on clinical data, the app provides a simple, fast, and accessible way to support early screening and health awareness. It demonstrates practical use of classification algorithms in a real-world medical context.</p>
-<p>github - https://github.com/MrPejper/diabetes</p>
+<h1 id="stock-decision-engine">Stock Decision Engine</h1>
+<p>A fully automated decision pipeline that evaluates stock market data and generates actionable insights. The system fetches financial and market data, calculates indicators such as volatility, SMA, and trading volume, and applies a deterministic decision logic to assess risk, market attention, and upcoming events.</p>
+<p>Key features:</p>
+<ul>
+<li>
+<p>Data Fetcher: Collects stock prices, earnings, and other market metrics.</p>
+</li>
+<li>
+<p>Calculator: Computes indicators like 30-day volatility, SMA, and average volume.</p>
+</li>
+<li>
+<p>Decision Engine: Assigns risk levels and confidence scores using deterministic rules.</p>
+</li>
+<li>
+<p>Alert System: Generates reports and alerts when significant events occur.</p>
+</li>
+<li>
+<p>Scalable Architecture: Fully modular workflow allowing easy extension or integration with new data sources.</p>
+</li>
+<li>
+<p>Technologies: n8n, PostgreSQL, Node.js, JavaScript</p>
+</li>
+</ul>
+<p>API limitations
+This system is designed to operate with a paid market data API.
+When using a free API tier (e.g. AlphaVantage), data availability and request limits may cause incomplete coverage (missing symbols, delayed earnings data, rate limits).</p>
+<p>The full decision logic, scoring, and alerting pipeline works as intended, but production-grade reliability and scale require a paid API subscription.</p>
+<p>github - </p>
 <p><iframe
     id="content"
-    src="diabetes_site.html"
+    src="Stock_Decision_Engine.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe></p>
