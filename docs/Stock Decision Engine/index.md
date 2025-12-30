@@ -22,7 +22,7 @@ When using a free API tier (e.g. AlphaVantage), data availability and request li
 
 The full decision logic, scoring, and alerting pipeline works as intended, but production-grade reliability and scale require a paid API subscription.
 
-github - 
+github - https://github.com/MrPejper/Stock-Decision-Engine
 <iframe
     id="content"
     src="Stock_Decision_Engine.html"
