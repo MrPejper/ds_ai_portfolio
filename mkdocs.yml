@@ -12,6 +12,9 @@ theme:
 
 nav:
 - Home Page: index.md
+- Automation & Decision Systems:
+  - "Stock_Decision_Engine": Stock_Decision_Engine/index.md
+   
 - Data Analysis:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md
